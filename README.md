@@ -1,4 +1,9 @@
 # PERSONAL-PORTFOLIO-WEBPAGE
+**COMPANY**:CODTECH IT SOLUTIONS PVT.LTD 
+**DOMAIN**:Frontend Web Development. BATCH
+**DURATION**: January 5th, 2025 to February 5th, 2025 
+**MENTOR NAME**:Neela Santosh
+#Descripation of the Task
 This is the source code for my Personal Portfolio Website, built to showcase my skills, projects, and contact details. Designed with a clean and modern UI, this portfolio is fully responsive and optimized for all devices. It serves as a digital resume for potential clients and employers to learn more about me.
 
 Features
