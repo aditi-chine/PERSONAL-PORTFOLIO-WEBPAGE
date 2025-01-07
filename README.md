@@ -17,3 +17,5 @@ Tech Stack
 HTML5: For structure and content.
 CSS3: For styling, animations, and responsiveness.
 Flexbox: For layout and alignment.
+**OUTPUT**
+![Screenshot (2)](https://github.com/user-attachments/assets/1dc114af-cd67-4dfa-a42d-74235614e22d)
