@@ -1,0 +1,176 @@
+/* General Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    color: #b8b0b0;
+    background: #19195f;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  /* Header Section */
+  header {
+    background: linear-gradient(to right, #ff6600, #ff9933);
+    color: white;
+    padding: 60px 20px;
+  }
+  
+  header h1 {
+    font-size: 2.5em;
+  }
+  
+  header h1 span {
+    color: #fff200;
+  }
+  
+  header p {
+    font-size: 1.2em;
+    margin: 10px 0;
+  }
+  
+  header .btn {
+    text-decoration: none;
+    padding: 10px 20px;
+    background: white;
+    color: #ff6600;
+    border-radius: 5px;
+    font-weight: bold;
+  }
+  
+  header .btn:hover {
+    background: #fff200;
+    color: #333;
+  }
+  
+  /* Navigation */
+  nav {
+    background: #333;
+    color: white;
+    padding: 10px 0;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+  }
+  
+  nav ul li {
+    margin: 0 15px;
+  }
+  
+  nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  nav ul li a:hover {
+    color: #ff9933;
+  }
+  
+  /* About Section */
+  #about {
+    padding: 40px 20px;
+    background: white;
+  }
+  
+  #about .content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+  }
+  
+  .profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid #ff6600;
+  }
+  
+  /* Skills Section */
+  #skills {
+    padding: 40px 20px;
+    background: #f4f4f9;
+  }
+  
+  .skill {
+    margin: 15px 0;
+  }
+  
+  .progress-bar {
+    background: #ddd;
+    border-radius: 5px;
+    overflow: hidden;
+  }
+  
+  .progress {
+    background: #ff6600;
+    height: 20px;
+    border-radius: 5px;
+  }
+  
+  /* Projects Section */
+  #projects {
+    padding: 40px 20px;
+    background: white;
+  }
+  
+  .projects-container {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .project {
+    background: #f4f4f9;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    max-width: 300px;
+    text-align: center;
+  }
+  
+  .project h3 {
+    color: #ff6600;
+  }
+  
+  /* Contact Section */
+  #contact {
+    padding: 40px 20px;
+    background: #f4f4f9;
+    text-align: center;
+  }
+  
+  #contact .btn {
+    text-decoration: none;
+    padding: 10px 20px;
+    background: #ff6600;
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+  }
+  
+  #contact .btn:hover {
+    background: #ff9933;
+  }
+  
+  /* Footer */
+  footer {
+    text-align: center;
+    background: #333;
+    color: white;
+    padding: 10px 0;
+  }
+  
